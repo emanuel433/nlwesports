@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[Cloque para acessar](https://github.com/emanuel433/nlwesports)
+[Clique para acessar](https://emanuel433.github.io/nlwesports/)
 
 ## Tecnologias
 
